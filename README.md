@@ -5,7 +5,7 @@ Tic Tac Toe game built with vanilla JavaScript featuring an AI opponent. The AI 
 A classic Tic Tac Toe game built with vanilla JavaScript where you play against an AI opponent.
 
 ## Live Demo
-https://bekamanjgaladze3-dev.github.io/Tic-Toc-Toe-Game-against-AI/
+https://divyanshi-tech28.github.io/ticTacToe/
 
 ## Features
 - AI opponent that defends against your winning moves and attempts to win
